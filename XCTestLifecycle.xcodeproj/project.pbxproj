@@ -79,13 +79,13 @@
 		380BAB562531041E0005FD1D /* XCTestLifecycle */ = {
 			isa = PBXGroup;
 			children = (
+				380BAB65253104210005FD1D /* Info.plist */,
 				380BAB572531041E0005FD1D /* AppDelegate.swift */,
 				380BAB592531041E0005FD1D /* SceneDelegate.swift */,
 				380BAB5B2531041E0005FD1D /* ViewController.swift */,
-				380BAB5D2531041E0005FD1D /* Main.storyboard */,
 				380BAB60253104210005FD1D /* Assets.xcassets */,
 				380BAB62253104210005FD1D /* LaunchScreen.storyboard */,
-				380BAB65253104210005FD1D /* Info.plist */,
+				380BAB5D2531041E0005FD1D /* Main.storyboard */,
 			);
 			path = XCTestLifecycle;
 			sourceTree = "<group>";
@@ -93,8 +93,8 @@
 		380BAB6D253104210005FD1D /* XCTestLifecycleTests */ = {
 			isa = PBXGroup;
 			children = (
-				380BAB6E253104210005FD1D /* XCTestLifecycleTests.swift */,
 				380BAB70253104210005FD1D /* Info.plist */,
+				380BAB6E253104210005FD1D /* XCTestLifecycleTests.swift */,
 			);
 			path = XCTestLifecycleTests;
 			sourceTree = "<group>";

@@ -1,0 +1,29 @@
+{
+  "configurations" : [
+    {
+      "id" : "477FAB35-FA21-4F2E-834B-357C940A7CD7",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : false,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:XCTestLifecycle.xcodeproj",
+      "identifier" : "380BAB532531041E0005FD1D",
+      "name" : "XCTestLifecycle"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:XCTestLifecycle.xcodeproj",
+        "identifier" : "380BAB69253104210005FD1D",
+        "name" : "XCTestLifecycleTests"
+      }
+    }
+  ],
+  "version" : 1
+}

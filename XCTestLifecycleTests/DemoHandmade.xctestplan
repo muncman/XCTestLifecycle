@@ -1,0 +1,28 @@
+{
+  "configurations" : [
+    {
+      "id" : "DD54DD99-A344-4F2E-B8BE-8B97C8FE9171",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "skippedTests" : [
+        "XCTestLifecycleTests\/testThatFails()",
+        "XCTestLifecycleTests\/testWithSingleTeardownBlockAndException()"
+      ],
+      "target" : {
+        "containerPath" : "container:XCTestLifecycle.xcodeproj",
+        "identifier" : "380BAB69253104210005FD1D",
+        "name" : "XCTestLifecycleTests"
+      }
+    }
+  ],
+  "version" : 1
+}

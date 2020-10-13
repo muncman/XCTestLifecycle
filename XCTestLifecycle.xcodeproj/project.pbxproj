@@ -38,6 +38,9 @@
 		380BAB6A253104210005FD1D /* XCTestLifecycleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = XCTestLifecycleTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		380BAB6E253104210005FD1D /* XCTestLifecycleTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XCTestLifecycleTests.swift; sourceTree = "<group>"; };
 		380BAB70253104210005FD1D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3828AE782536594F000370CA /* DemoHandmade.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; name = DemoHandmade.xctestplan; path = XCTestLifecycleTests/DemoHandmade.xctestplan; sourceTree = "<group>"; };
+		38C7B8DE2535532500C2ADF5 /* Demo.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = Demo.xctestplan; sourceTree = "<group>"; };
+		38C7B8E12535547500C2ADF5 /* DemoFromScheme.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; name = DemoFromScheme.xctestplan; path = XCTestLifecycle.xcodeproj/DemoFromScheme.xctestplan; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +64,8 @@
 		380BAB4B2531041E0005FD1D = {
 			isa = PBXGroup;
 			children = (
+				3828AE782536594F000370CA /* DemoHandmade.xctestplan */,
+				38C7B8E12535547500C2ADF5 /* DemoFromScheme.xctestplan */,
 				380BAB562531041E0005FD1D /* XCTestLifecycle */,
 				380BAB6D253104210005FD1D /* XCTestLifecycleTests */,
 				380BAB552531041E0005FD1D /* Products */,
@@ -95,6 +100,7 @@
 			children = (
 				380BAB70253104210005FD1D /* Info.plist */,
 				380BAB6E253104210005FD1D /* XCTestLifecycleTests.swift */,
+				38C7B8DE2535532500C2ADF5 /* Demo.xctestplan */,
 			);
 			path = XCTestLifecycleTests;
 			sourceTree = "<group>";
